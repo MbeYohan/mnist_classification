@@ -1,0 +1,20 @@
+artifact_path: file:///D:/TRAVAUX/ENSPY/NIVEAU%20IV/Mme%20Sonfack/mnist_classification/mlruns/0/models/m-ef453435855746d6a02d6e1b8e8085d5/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.5
+mlflow_version: 3.5.0
+model_id: m-ef453435855746d6a02d6e1b8e8085d5
+model_size_bytes: 4907225
+model_uuid: m-ef453435855746d6a02d6e1b8e8085d5
+prompts: null
+run_id: eb3e4e9226b34e0fb88e8e0e51d47295
+utc_time_created: '2025-10-21 01:03:28.862724'

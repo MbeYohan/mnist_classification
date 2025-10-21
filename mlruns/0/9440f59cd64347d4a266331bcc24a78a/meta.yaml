@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/TRAVAUX/ENSPY/NIVEAU%20IV/Mme%20Sonfack/mnist_classification/mlruns/0/9440f59cd64347d4a266331bcc24a78a/artifacts
+end_time: 1761008602479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9440f59cd64347d4a266331bcc24a78a
+run_name: rogue-snail-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761008602418
+status: 3
+tags: []
+user_id: mbeyo

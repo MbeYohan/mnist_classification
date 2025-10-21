@@ -1,0 +1,10 @@
+artifact_location: file:///D:/TRAVAUX/ENSPY/NIVEAU%20IV/Mme%20Sonfack/mnist_classification/mlruns/0/models/m-ef453435855746d6a02d6e1b8e8085d5/artifacts
+creation_timestamp: 1761008608832
+experiment_id: '0'
+last_updated_timestamp: 1761008616202
+model_id: m-ef453435855746d6a02d6e1b8e8085d5
+model_type: null
+name: mnist-model
+source_run_id: eb3e4e9226b34e0fb88e8e0e51d47295
+status: 2
+status_message: null
